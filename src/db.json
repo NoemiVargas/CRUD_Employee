@@ -1,0 +1,37 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Noemi",
+      "email": "noemi@gmail.com",
+      "phone": "989458459"
+    },
+    {
+      "id": 2,
+      "name": "noemi",
+      "email": "noemi@go.com",
+      "phone": "8985698569",
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Romario",
+      "email": "romario@gmail.com",
+      "phone": "987654321"
+    },
+    {
+      "id": 4,
+      "name": "mimi",
+      "email": "mi@gmail.com",
+      "phone": "",
+      "active": true
+    },
+    {
+      "id": 5,
+      "name": "pa",
+      "email": "pa@gmail.com",
+      "phone": "58652",
+      "active": true
+    }
+  ]
+}
